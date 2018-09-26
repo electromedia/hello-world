@@ -1,2 +1,2 @@
 # hello-world
-New Repository Tuts
+Just trying out this tutorial.
